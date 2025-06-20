@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img alt="My Portfolio" src="./assets/oh hi there.png" width="300"/>
-</div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Roger Heredia Soriano – Game Developer</h1>
 
