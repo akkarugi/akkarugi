@@ -1,71 +1,86 @@
 <div align="center" width="50">
-    <img alt="Portfolio" src="./assets/oh hi there.png" width="300"/>
+    <img alt="My Portfolio" src="./assets/oh hi there.png" width="300"/>
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm a Game Developer</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Roger Heredia Soriano – Game Developer</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/TU_USUARIO?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.repoName) <img src="https://komarev.com/ghpvc/?username=TU_USUARIO" alt="visitors" />
+[![GitHub followers](https://img.shields.io/github/followers/akkarugi?style=social)](https://github.com/akkarugi) [![GitHub stars](https://img.shields.io/github/stars/akkarugi?style=social)](https://github.com/akkarugi) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=akkarugi.repoName) <img src="https://komarev.com/ghpvc/?username=akkarugi" alt="akkarugi" />
 
 ## About Me :
 
-- 🎓 Recently graduated in **Video Game-Oriented Multiplatform Application Development (DAM-VIOD)** from **ENTI Barcelona**
-- 🎮 Skilled in **Unity, Unreal Engine, and Godot**
-- 💻 Languages: **C#, C++, JavaScript, Blueprints**
-- 🗄️ CRUD Certificate: **SQL & NoSQL databases**
-- 📂 Check out my projects here: [GitHub Portfolio](https://github.com/TU_USUARIO)
+- 🎮 Game Developer specialized in Unity and Unreal Engine
+- 🎓 Passionate about designing interactive and immersive experiences
+- 🧠 Constant learner, always improving skills in gameplay systems and game feel
+- 🌍 Based in Spain
+
+<br>
+
+## Check out my projects here 🚀:
+
+➡️ [My GitHub Projects](https://github.com/akkarugi)
 
 <br>
 
 ## Connect with me ☕ :
 
-<br>
-
-[![@your_instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@your_instagram")](https://www.instagram.com/TU_INSTAGRAM/) 
-[![@your_linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@your_linkedin")](https://www.linkedin.com/in/TU_LINKEDIN/) 
-[![@your_email](https://img.icons8.com/fluency/48/000000/apple-mail.png "@your_email")](mailto:TU_EMAIL@gmail.com)
+<a href="https://www.instagram.com/akka_rugi/">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/roger-heredia-19a37736b">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="mailto:rogerheredia.trabajo@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/>
+</a>
 
 <br>
 
 ## What I am Good at 🧑‍💻 :
 
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/000000/unity.png"/>
-<img src="https://img.icons8.com/color/48/000000/unreal-engine.png"/>
-<img src="https://img.icons8.com/color/48/000000/godot-engine.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=algolia)](https://git.io/streak-stats)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=algolia)](https://github.com/TU_USUARIO/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=algolia)](https://github.com/TU_USUARIO/github-readme-stats)
-
-<br>
-
-## GitHub Trophies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia)](https://github.com/TU_USUARIO/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&bg_color=000&color=00e676&line=00e676&point=ffffff&hide_border=true)](https://github.com/TU_USUARIO)
-
----
-
-Credit: [TU_USUARIO](https://github.com/TU_USUARIO)  
-Last edited on: 20/06/2025
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/office/48/000000/react.png" alt="React"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="WordPress"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+    </td>
+  </tr>
+</table>
